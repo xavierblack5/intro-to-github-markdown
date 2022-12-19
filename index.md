@@ -12,3 +12,9 @@ VALUES ('xavierblack', 'Xavier Black'),
        ('spencermirly', 'Spencer Mirly'),
        ('johnsmith', 'John Smith'); 
 ```
+
+- [x] HW4
+- [ ] HW5
+- [ ] HW6
+
+
